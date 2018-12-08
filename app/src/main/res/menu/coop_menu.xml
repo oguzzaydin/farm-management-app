@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_coop"
+        android:orderInCategory="100"
+        android:title="Kümes Ekle"
+        app:showAsAction="never" />
+</menu>
